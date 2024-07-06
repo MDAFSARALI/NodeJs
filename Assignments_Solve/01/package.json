@@ -1,0 +1,14 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "\"First Problem\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"Test\""
+  },
+  "keywords": [
+    "\"first\"\"try\""
+  ],
+  "author": "\"--Afsar\"",
+  "license": "ISC"
+}
